@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D20_Security_02May2019", "D20_Security_02May2019\D20_Security_02May2019.csproj", "{336765FF-4503-4956-B482-F2D7BDCAF310}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomSecurity", "CustomSecurity\CustomSecurity.csproj", "{F4FA69AE-8370-4B79-AE5E-E2128ADA6D8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{336765FF-4503-4956-B482-F2D7BDCAF310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{336765FF-4503-4956-B482-F2D7BDCAF310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{336765FF-4503-4956-B482-F2D7BDCAF310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336765FF-4503-4956-B482-F2D7BDCAF310}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4FA69AE-8370-4B79-AE5E-E2128ADA6D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4FA69AE-8370-4B79-AE5E-E2128ADA6D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4FA69AE-8370-4B79-AE5E-E2128ADA6D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4FA69AE-8370-4B79-AE5E-E2128ADA6D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37B76BE0-EEE0-46C8-87A7-84C3D106A5E3}
+	EndGlobalSection
+EndGlobal
